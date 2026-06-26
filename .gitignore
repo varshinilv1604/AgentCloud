@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+agentcloud/models/
+*.safetensors
+*.bin
+*.gguf
+
+logs/
+results/
+
+*.db
+*.db-shm
+*.db-wal
+
+.cache/
